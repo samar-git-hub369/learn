@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-// add new feature -form /
-=======
 // add new feature -form-
->>>>>>> feature
+// add new feature -form /
